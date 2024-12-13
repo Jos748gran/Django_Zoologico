@@ -13,3 +13,6 @@
 - En una relación de uno a muchos poder registrar en un solo formulario padre - hijos
 
 - Link de la pag: http://localhost:8000/
+- Super Usuario
+- Usuario: Carlos23
+- Contraseña:123456
