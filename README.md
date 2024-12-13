@@ -10,4 +10,6 @@
   ![image](https://github.com/user-attachments/assets/650f51ba-43db-472d-92e1-cb67940e21e7)
 
 
-- En una relación de uno a muchos poder registrar en un solo formulario padre - hijos 
+- En una relación de uno a muchos poder registrar en un solo formulario padre - hijos
+
+- Link de la pag: http://localhost:8000/
