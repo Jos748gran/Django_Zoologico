@@ -4,15 +4,17 @@
 - Búsqueda: Implementada en el panel de administración, permite buscar registros específicos por nombres, identificaciones, números únicos o especialidades. La búsqueda es dinámica y funciona en tiempo real.
 - Presentar diferentes tipos de datos (columnas)
   #### Imagen 1
-  ![image](https://github.com/user-attachments/assets/1d5eb1e9-e62b-4d8a-8517-9f397d9bfc91)
-  
-  #### Imagen 2
-  ![image](https://github.com/user-attachments/assets/650f51ba-43db-472d-92e1-cb67940e21e7)
+  ![Captura de pantalla 2024-12-15 132137](https://github.com/user-attachments/assets/9ff7fa1f-4d5b-4374-92fe-5c9396d3cead)
 
+  #### Imagen 2
+  ![Captura de pantalla 2024-12-15 132316](https://github.com/user-attachments/assets/41268195-6961-463c-a4e3-4194e00c5f6c)
 
 - En una relación de uno a muchos poder registrar en un solo formulario padre - hijos
+  #### Imagen 3
+  ![Captura de pantalla 2024-12-15 132730](https://github.com/user-attachments/assets/a30fbf35-fe75-4036-bdb8-f24334249bef)  
 
-- Link de la pag: http://localhost:8000/
+
+- Link de la pag: http://127.0.0.1:8000/
 - Super Usuario
 - Usuario: Carlos23
 - Contraseña:123456
